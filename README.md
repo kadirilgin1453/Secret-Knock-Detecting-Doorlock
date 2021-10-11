@@ -7,3 +7,15 @@ Knocks are performed by tapping against the piezo electric sensor.
 Default knock code is "Shave and a hair cut, two bits" (according to the rhythm in which we say it).
 All knock parameters like tolerance level and fade time can be modified within the code.
 Also possible to record new knock code and save.
+
+Turkish-Türkçe
+
+# Şifreli Kapı Açma Sistemi
+Arduino kontrollü şifreli vuruş algılayan kapı kilidi:
+Devre verilen şemaya göre yapılandırılmıştır.
+Arduino verilen kod ile yüklenir.
+Kod çalıştırılır.
+Vuruşlar, piezo elektrik sensörüne vurularak gerçekleştirilir.
+Varsayılan vuruş kodu "Shave and a hair cut, two bits" dir (bizim söylediğimiz ritme göre).
+Tolerans seviyesi ve solma süresi gibi tüm vuruntu parametreleri kod içinde değiştirilebilir.
+Ayrıca yeni vuruş kodunu kaydetmek mümkündür.
