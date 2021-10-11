@@ -8,9 +8,8 @@ Default knock code is "Shave and a hair cut, two bits" (according to the rhythm 
 All knock parameters like tolerance level and fade time can be modified within the code.
 Also possible to record new knock code and save.
 
-Turkish-Türkçe
 
-# Şifreli Kapı Açma Sistemi
+# Şifreli Kapı Açma Sistemi Turkish-Türkçe
 Arduino kontrollü şifreli vuruş algılayan kapı kilidi:
 Devre verilen şemaya göre yapılandırılmıştır.
 Arduino verilen kod ile yüklenir.
